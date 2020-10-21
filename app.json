@@ -1,0 +1,12 @@
+{
+  "name": "por-app",
+  "displayName": "por-app",
+  "expo": {
+    "name": "por-app",
+    "slug": "por-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
